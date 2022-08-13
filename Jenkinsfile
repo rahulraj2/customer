@@ -1,4 +1,4 @@
 
 @Library('shared-library') _
 
-helloWorld(name: 'Rahul', age: 18)
+helloWorld("test", name: 'Rahul', age: 18)
